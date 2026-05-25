@@ -1,0 +1,11 @@
+Supplier ID,Supplier Name,Category,Volume % of Spend,Total Deliveries,On-Time Delivery Rate %,Avg Defect Rate %,Documentation Compliance %,Avg Lead Time Days,OTD Score (35%),Defect Score (30%),Doc Score (20%),Lead Time Score (15%),Weighted Score,Status,Total Defective Units,Total Order Quantity
+SUP-008,Atlantic Seafood Supply,Raw Ingredients,7,83,63.9,5.07,66.3,14.3,63.9,0,66.3,62.8,45.0,At Risk,17376,354757
+SUP-002,Maple Packaging Ltd.,Packaging,14,80,61.3,5.01,73.8,13.8,61.3,0,73.8,64.8,45.9,At Risk,17366,346552
+SUP-004,Ontario Fresh Produce,Raw Ingredients,10,86,67.4,4.6,77.9,14.1,67.4,8.0,77.9,63.6,51.1,At Risk,17442,376093
+SUP-009,Northern Flavours Ltd.,Additives,9,66,86.4,2.34,86.4,9.9,86.4,53.2,86.4,80.4,75.5,Watch List,6508,273883
+SUP-010,EcoBox Solutions,Packaging,6,73,84.9,2.27,93.2,10.2,84.9,54.6,93.2,79.2,76.6,Watch List,6314,296061
+SUP-003,Great Lakes Dairy Supply,Raw Ingredients,12,95,85.3,2.22,91.6,9.8,85.3,55.6,91.6,80.8,77.0,Watch List,9657,432359
+SUP-006,ClearSeal Packaging,Packaging,8,78,84.6,2.2,92.3,9.8,84.6,56.0,92.3,80.8,77.0,Watch List,7470,343501
+SUP-001,Prairie Grain Co.,Raw Ingredients,18,83,94.0,0.82,94.0,6.9,94.0,83.6,94.0,92.4,90.6,Approved,2799,351920
+SUP-007,Rocky Mountain Spices,Additives,7,62,91.9,0.81,100.0,7.0,91.9,83.8,100.0,92.0,91.1,Approved,2060,256543
+SUP-005,Westcoast Oils Inc.,Raw Ingredients,9,68,94.1,0.8,98.5,6.9,94.1,84.0,98.5,92.4,91.7,Approved,2417,303108

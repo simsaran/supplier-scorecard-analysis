@@ -1,0 +1,12 @@
+Metric,Value,Notes
+Total suppliers assessed,10,"Across raw ingredients, packaging, and additives"
+Analysis period,12 months,January to December 2024
+Total deliveries tracked,774,Across all 10 suppliers
+Suppliers — Approved,3,Weighted score 80 or above
+Suppliers — Watch List,4,Weighted score 60 to 79
+Suppliers — At Risk,3,Weighted score below 60
+% of spend in At Risk suppliers,31%,High concentration risk
+% of spend in Watch List suppliers,35%,Monitoring required
+Worst performing supplier,Atlantic Seafood Supply,Score 45.0 — At Risk
+Second worst supplier,Maple Packaging Ltd.,Score 45.9 — At Risk
+Scoring weights,"OTD 35%, Defect 30%, Documentation 20%, Lead Time 15%",Weighted by operational impact
