@@ -16,7 +16,7 @@ A supplier performance scorecard and root cause analysis for a fictional Canadia
 
 ## What the data showed
 
-Three suppliers are At Risk with weighted scores below 60. Together they account for 31% of total purchase spend — a significant concentration of risk in underperforming suppliers.
+Three suppliers are At Risk with weighted scores below 60. Together they account for 31% of total purchase spend, a significant concentration of risk in underperforming suppliers.
 
 | Supplier | Score | OTD % | Defect % | Status |
 |---------|-------|--------|----------|--------|
